@@ -1,4 +1,4 @@
-### Crossword(курс "JavaRush").
+## Crossword(курс "JavaRush").
 ![crossword][link]
 
 #### **Условия задачи:**
